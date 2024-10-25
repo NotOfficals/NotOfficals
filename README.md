@@ -1,4 +1,4 @@
-<p align="center"><a href="https://notoffical.online"><img width="35%" alt="Hello, I'm NotOffical, Developer CristalBeta!" src="https://www.coolgenerator.com/Data/Textdesign/202405/65f356c44f0656f637921329461966da.png" /></a></p>
+<p align="center"><a href="https://notoffical.online"><img width="35%" alt="Hello, I'm NotOffical, Developer CristalBeta!" src="[https://www.coolgenerator.com/Data/Textdesign/202405/65f356c44f0656f637921329461966da.png](https://readme-typing-svg.herokuapp.com/?color=5b27f5&lines=My%20+%20Name%20+%20NotOfficals)" /></a></p>
 
 <br />
 
