@@ -1,24 +1,36 @@
-<p align="center"><a href="https://notoffical.online"><img width="35%" alt="Hello, I'm NotOffical, Developer CristalBeta!" src="[https://www.coolgenerator.com/Data/Textdesign/202405/65f356c44f0656f637921329461966da.png](https://readme-typing-svg.herokuapp.com/?color=5b27f5&lines=My%20+%20Name%20+%20NotOfficals)" /></a></p>
+<div align="center">
 
-<br />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5b27f5&lines=Hello,+I'm+NotOfficals)](https://notoffical.pro)
 
-I'm a professional developer from Ukraine
+# 💻 Professional Developer from Ukraine 🇺🇦
+Developer at [CristalBeta](http://cristalbeta.online/)
 
-**About me**
+</div>
 
-- 💼 Developer [CristalBeta](http://cristalbeta.online/)
+---
 
+### About Me
+- 💼 Working on projects like **CristalBeta**
+- ❤️ Passionate about **Python** and **Java**
+- 🔗 More about me on my [website](https://NotOffical.online)
 
-- ❤️ I love Python/Java
+---
 
-- 💬 Bio [here](https://NotOffical.online)
+### Languages and Tools
 
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>    
+<p align="left">
+  <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+</p>
 
+---
+
+### GitHub Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotOfficals&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NotOffical github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotOfficals&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+---
