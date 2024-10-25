@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5b27f5&lines=Hello,+I'm+NotOfficals)](https://notoffical.pro)
 
 # 💻 Professional Developer from Ukraine 🇺🇦
-Developer at [CristalBeta](http://cristalbeta.online/)
+Developer at [CristalBeta](http://cristalbeta.pro/)
 
 </div>
 
@@ -12,7 +12,7 @@ Developer at [CristalBeta](http://cristalbeta.online/)
 ### About Me
 - 💼 Working on projects like **CristalBeta**
 - ❤️ Passionate about **Python** and **Java**
-- 🔗 More about me on my [website](https://NotOffical.online)
+- 🔗 More about me on my [website](https://NotOffical.pro)
 
 ---
 
@@ -30,7 +30,7 @@ Developer at [CristalBeta](http://cristalbeta.online/)
 
 ### GitHub Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotOfficals&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NotOffical github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotOfficals&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotOfficals&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="NotOffical github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotOfficals&layout=compact&theme=merko&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
